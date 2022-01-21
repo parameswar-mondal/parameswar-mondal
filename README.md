@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Param 👋
 
-<!--
-**parameswar-mondal/parameswar-mondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Son, Husband and Software Engineer!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Health Care Project as a Azure Developer using Nodejs
+- 🌱 I’m currently learning Azure DevOps
+- 💬 Ask me about anything 🤣
+- 🥅 2022 Goals: Complete certification on Developing Solutions for Microsoft Azure (AZ-204)
+- ⚡ Fun fact: I love to ride bike and travelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![Facebook Follow](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/parameswar123)
