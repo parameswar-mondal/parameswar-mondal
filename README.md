@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Health Care Project as a Azure Developer using Nodejs
 - 🌱 I’m currently learning Azure DevOps
 - 💬 Ask me about anything 🤣
-- 🥅 2022 Goals: Complete certification on Developing Solutions for Microsoft Azure (AZ-204)
+- 🥅 2023 Goals: Complete certification on Developing Solutions for Microsoft Azure (AZ-204)
 - ⚡ Fun fact: I love to ride bike, play cricket and travelling
 
 ### Connect with me:
