@@ -66,4 +66,4 @@
 
 [facebook]: https://www.facebook.com/parameswar123
 [instagram]: https://instagram.com/parameswar_mondal
-[linkedin]: https://www.linkedin.com/in/parameswar-mondal-80010a63/
+[linkedin]: https://www.linkedin.com/in/parameswar-mondal/
